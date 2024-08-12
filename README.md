@@ -1,0 +1,1 @@
+# Factorial-of-1-to-n-numbers
